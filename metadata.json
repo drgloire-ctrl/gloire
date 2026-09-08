@@ -1,0 +1,7 @@
+{
+  "name": "AI Forex Signal",
+  "description": "Real-time Forex signals application with AI-powered analysis and TradingView integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
